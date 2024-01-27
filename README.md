@@ -1,2 +1,2 @@
 # AIDI1
-new line
+Contain a simple greeting script
